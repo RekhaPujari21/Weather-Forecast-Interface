@@ -1,4 +1,5 @@
 **FEATURES**
+
 Get real-time weather updates for any city
 
 Displays temperature, humidity, wind speed, and weather description
