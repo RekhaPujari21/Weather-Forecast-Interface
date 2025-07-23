@@ -2,7 +2,7 @@
 
 This is a powerful weather forecast application built using **Python 3.13**. The app fetches real-time weather data for any city using the **OpenWeatherMap API** and displays key weather metrics such as temperature, humidity, pressure, and wind speed.
 
-FEATURES
+## FEATURES
 
 - Get real-time weather updates for any city
 
